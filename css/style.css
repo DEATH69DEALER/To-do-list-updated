@@ -1,0 +1,50 @@
+/*@import url('https://fonts.googleapis.com/css?family=Lemonada');*/
+
+html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+background-color: black;
+}
+
+div{
+	display: block;
+	width: 400px;
+	margin: auto;
+}
+
+h1{
+	text-align: center;
+  margin-bottom: 50px;
+	color: black;
+
+	text-transform: uppercase;
+}
+
+ul{
+	margin:0;
+	padding: 0;
+}
+
+.containere{
+
+  display: flex;
+  flex-direction: column;
+font-family: 'Sansita Swashed', cursive;
+font-family: 'Abril Fatface', cursive;
+color: #5463FF;
+}
+
+.head{
+  padding-top: 2rem;
+  font-family: 'Sansita Swashed', cursive;
+  font-size: 4rem;
+}
+
+.mdl-color--pink-A100{
+  background-color: #ff80ab;
+}
+body{
+background-color: #B8FFF9;
+
+}
